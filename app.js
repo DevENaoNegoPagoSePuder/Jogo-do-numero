@@ -11,7 +11,7 @@ let tentativas = 1;
 
     function mensagemInicial() {
    textoNaTela('h1', 'Jogo do numero secreto');
-   textoNaTela('p', 'Digite um numero de 1 a 100');
+   textoNaTela('p', 'Digite um numero de 1 a 1000');
     }
 
     mensagemInicial();
